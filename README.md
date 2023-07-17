@@ -4,7 +4,7 @@
 
 :mortar_board: Sou bacharel em Engenharia de Software e tenho Pós em Desenvolvimento Web Front-End, pela Kenzie Academy.
 
-:office: Trabalhei como Técnico de informática por dois anos, e como Suporte Técnico.
+:office: Trabalhei como Técnico de informática por dois anos, como Suporte Técnico e como Desenvolvedor Front-End Web.
 
 :books: Atualmente estou me aprimorando como Desenvolvedor Web Front-End , e obtendo mais conhecimento nas tecnologias que já utilizo, sempre atento ao mercado e buscando novos conhecimentos que me agreguem como profissional.</p>
 
@@ -20,6 +20,8 @@
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" disabled/>
   :large_blue_diamond:
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  :large_blue_diamond:
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   :large_blue_diamond:
 </div> 
 <hr>
